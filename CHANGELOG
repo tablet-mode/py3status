@@ -1,10 +1,11 @@
 version 3.6 (milestone)
-* battery_level module: fix bug with over 100% full icon, by @docwalter
 * backlight module: combine device/device_path params, by @lasers
+* battery_level module: fix bug with over 100% full icon, by @docwalter
 * dpms module: add safeformat for all statuses, by @lasers
 * external_script: allow colored output, by @enguerrand
 * getjson module: cleanups, by @lasers
 * net_iplist module: fix for new formatter, by @guiniol
+* pomorodo module: fix typo on docstring, by @valdur55
 * spaceapi module: prevent 'used before assignment' error, by @fmorgner
 * sysdata module: Add load support, by @guiniol
 * volume_status: Default device detection for pactl, by  @lasers
