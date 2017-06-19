@@ -1,4 +1,5 @@
 version 3.6 (milestone)
+* fixed some of the documentation headings, by @armandg
 * backlight module: combine device/device_path params, by @lasers
 * battery_level module: fix bug with over 100% full icon, by @docwalter
 * dpms module: add safeformat for all statuses, by @lasers
