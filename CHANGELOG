@@ -10,6 +10,7 @@ version 3.6 (milestone)
 * spaceapi module: prevent 'used before assignment' error, by @fmorgner
 * sysdata module: Add load support, by @guiniol
 * volume_status: Default device detection for pactl, by  @lasers
+* volume_status module: fix PactlBackend on non english system, by @vvoland
 * whatismyip module: color_degraded support in status mode, by @aethelz
 * wifi module: add format, merge formats, by @lasers
 
