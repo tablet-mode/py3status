@@ -8,6 +8,7 @@ version 3.6 (milestone)
 * net_iplist module: fix for new formatter, by @guiniol
 * pomorodo module: fix typo on docstring, by @valdur55
 * spaceapi module: prevent 'used before assignment' error, by @fmorgner
+* spotify module: sanitize album/track title by default, by @vvoland
 * sysdata module: Add load support, by @guiniol
 * volume_status: Default device detection for pactl, by  @lasers
 * volume_status module: fix PactlBackend on non english system, by @vvoland
